@@ -2,7 +2,7 @@
 title: "Utilization of Data Augmentation Techniques to Enhance Learning with Sparse Datasets"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: 'Neural network-based object detection has many important applications but requires a vast amount of training data. In applications where training data may be scarce, data augmentation techniques can be used to expand the training set. This paper explores the performance of such techniques on You Only Look Once Version 5 (YOLOv5).'
 date: 2022-09-19
 venue: 'ai4i'
 paperurl: 'http://dannybrig.github.io/files/Utilization_of_Data_Augmentation_Techniques_to_Enhance_Learning_with_Sparse_Datasets.pdf'
