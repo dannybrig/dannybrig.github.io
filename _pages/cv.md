@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* June 2021 - Present: Graduate Research Assistant
+* Graduate Research Assistant, June 2021 - Present
   * University of Central Florida (2021 - 2022)
   * University of Arizona (2022 - Present)
   * Advisor: Abhijit Mahalanobis
 
-* February 2020 - July 2021: Data Scientist
-  * Naval Information Warfare Center (NIWC) Atlantics
+* Data Scientist, February 2020 - July 2021
+  * Naval Information Warfare Center (NIWC) Atlantic
 
 Publications
 ======
