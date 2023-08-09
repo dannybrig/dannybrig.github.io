@@ -1,2 +1,10 @@
 _site/
 
+_config.yml
+_data/navigation.yml
+_pages/about.md
+.ipynb_checkpoints/
+_data/.ipynb_checkpoints/
+_drafts/.ipynb_checkpoints/
+_pages/.ipynb_checkpoints/
+files/.ipynb_checkpoints/
