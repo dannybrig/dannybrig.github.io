@@ -21,7 +21,7 @@ Work experience
   * University of Arizona (2022 - Present)
   * Advisor: Abhijit Mahalanobis
 
-* Research Intern
+* Research Intern, May 2024 - August 2024
   * Airforce Research Lab (AFRL)
 
 * Data Scientist, February 2020 - July 2021
