@@ -21,6 +21,9 @@ Work experience
   * University of Arizona (2022 - Present)
   * Advisor: Abhijit Mahalanobis
 
+* Research Intern
+  * Airforce Research Lab (AFRL)
+
 * Data Scientist, February 2020 - July 2021
   * Naval Information Warfare Center (NIWC) Atlantic
 
