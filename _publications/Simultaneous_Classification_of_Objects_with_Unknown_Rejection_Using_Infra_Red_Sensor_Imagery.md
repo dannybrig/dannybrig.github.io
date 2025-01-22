@@ -2,7 +2,7 @@
 title: "Simultaneous Classification of Objects with Unknown Rejection Using Infra-Red Imagery"
 collection: publications
 permalink: /publication/Simultaneous_Classification_of_Objects_with_Unknown_Rejection_Using_Infra_Red_Imagery
-excerpt: 'This is a test'
+excerpt: 'Test'
 date: 2025-1-14
 venue: 'Sensors'
 paperurl: # 'https://www.mdpi.com/1424-8220/25/2/492'
