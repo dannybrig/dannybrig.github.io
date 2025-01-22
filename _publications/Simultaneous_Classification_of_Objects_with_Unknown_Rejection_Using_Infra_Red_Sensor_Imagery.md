@@ -2,7 +2,7 @@
 title: "Simultaneous Classification of Objects with Unknown Rejection Using Infra-Red Imagery"
 collection: publications
 permalink: /publication/Simultaneous_Classification_of_Objects_with_Unknown_Rejection_Using_Infra_Red_Imagery
-excerpt: 'This method'
+excerpt: 'This method enhances the ability of pretrained classifiers to detect and reject unknown objects in infra-red images without altering their performance on known classes.'
 date: 2025-1-14
 venue: 'Sensors'
 paperurl: # 'https://www.mdpi.com/1424-8220/25/2/492'
