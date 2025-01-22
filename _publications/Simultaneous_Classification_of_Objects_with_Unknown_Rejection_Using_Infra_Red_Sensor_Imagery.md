@@ -1,7 +1,7 @@
 ---
 title: "Simultaneous Classification of Objects with Unknown Rejection Using Infra-Red Imagery"
 collection: publications
-permalink: /publication/Simultaneous_Classification_of_Objects_with_Unknown_Rejection_Using_Infra-Red_Imagery
+permalink: /publication/Simultaneous_Classification_of_Objects_with_Unknown_Rejection_Using_Infra_Red_Imagery
 excerpt: 'Test'
 date: 2025-1-14
 venue: 'Sensors'
@@ -11,4 +11,4 @@ citation: 'Cuellar, A.; Brignac, D.; Mahalanobis, A.; Mikhael, W. Simultaneous C
 
 Test
 
-[Download paper here](http://dannybrig.github.io/files/Simultaneous_Classification_of_Objects_with_Unknown_Rejection_(SCOUR)_Using_Infra-Red_Sensor_Imagery.pdf)
+[Download paper here](http://dannybrig.github.io/files/Simultaneous_Classification_of_Objects_with_Unknown_Rejection_(SCOUR)_Using_Infra_Red_Sensor_Imagery.pdf)
